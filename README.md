@@ -1,6 +1,6 @@
 # Machine-Learning- Object Detector
 
-As part of the challenge, worked on identifying objects within a series of images. The objects I needed to identify were:
+As part of the "Machine Learning" MOOC challenge, worked on identifying objects within a series of images. The objects I needed to identify were:
 
 Laptop, Monitor, Keyboard, Mouse, Football Ball (Soccer Ball), Bee, Train, Letter M, Letter T
 
